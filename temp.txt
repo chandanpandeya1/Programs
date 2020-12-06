@@ -1,0 +1,19 @@
+Prime Number
+HCF&LCM
+Pallindrome
+Leap Year
+Train Seat
+Sorting(array ascending and descending)
+Avergae, odd-even etc
+Calculator
+Pattern Printing
+Swap two numbers with or without third variable
+Sum of natural numbers
+C program to find number of digits in integer     12345 % 10   12345/10  1234  4    5
+Prime numbers between two intervals
+
+TODO
+Character and String
+Armstrong Number
+Factors of a number
+Check whether the number can be expressed as the sum of two prime numbers
